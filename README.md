@@ -122,3 +122,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Contact
 
 For any questions or support, please open an issue on the [GitHub repository](https://github.com/ppouria/Generate-Traffic).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
